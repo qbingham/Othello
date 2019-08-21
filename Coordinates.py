@@ -20,5 +20,5 @@ class Coordinates:
         self.col = col
 
     def __str__(self):
-        str = self.getRow() ,self.getCol()
+        str = self.getRow(), self.getCol()
         return str
